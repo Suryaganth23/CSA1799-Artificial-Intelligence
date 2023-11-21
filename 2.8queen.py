@@ -1,5 +1,4 @@
 print("8 Queen")
-print("Murali krishna-192124087")
 def is_safe(board, row, col):
     for i in range(row):
         if board[i][col] == 1:
