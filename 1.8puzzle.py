@@ -1,6 +1,5 @@
 import copy  
 from heapq import heappush, heappop  
-print("Murali krishna-192124087")
 n = 3  
 rows = [ 1, 0, -1, 0 ]  
 cols = [ 0, -1, 0, 1 ]  
