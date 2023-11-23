@@ -1,5 +1,4 @@
 import numpy as np
-print("Murali krishna-192124087")
 def relu(n):
     if n<0:
         return 0
