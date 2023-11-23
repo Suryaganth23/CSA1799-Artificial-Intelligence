@@ -1,5 +1,4 @@
 import heapq
-print("Murali krishna-192124087")
 class Node:
     def __init__(self, state, parent=None, cost=0, heuristic=0):
         self.state = state
