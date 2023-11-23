@@ -1,5 +1,4 @@
 import sys
-print("Murali krishna-192124087")
 class TSP:
     def __init__(self, num_cities, distances):
         self.num_cities = num_cities
