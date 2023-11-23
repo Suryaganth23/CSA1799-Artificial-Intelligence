@@ -1,5 +1,4 @@
 import math
-print("Murali krishna-192124087")
 def minimax (curDepth, nodeIndex,
              maxTurn, scores,
              targetDepth):
