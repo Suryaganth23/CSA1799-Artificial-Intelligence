@@ -1,4 +1,3 @@
-print("Murali krishna-192124087")
 class VacuumCleaner:
     def __init__(self, environment):
         self.environment = environment
