@@ -1,4 +1,3 @@
-print("Murali krishna-192124087")
 def print_board(board):
     for row in board:
         print(" | ".join(row))
