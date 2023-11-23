@@ -1,4 +1,3 @@
-print("Murali krishna-192124087")
 def addColor(R, province, color):
     ans = []
     for rr in R:
