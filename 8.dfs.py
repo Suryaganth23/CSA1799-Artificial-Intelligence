@@ -1,5 +1,4 @@
 from collections import defaultdict
-print("Murali krishna-192124087")
 class Graph:
     def __init__(self):
         self.graph = defaultdict(list)
